@@ -23,4 +23,4 @@ Users can start, pause, and reset a timer easily through a clean UI.
 
 ---
 
-## 📁 Project Structure
+
